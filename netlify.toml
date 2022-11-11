@@ -1,2 +1,2 @@
 [template.environment]
-ENTERSPEED_PRODUCTION_ENVIRONMENT_API_KEY = "change me for your environment api key"
+ENTERSPEED_PRODUCTION_ENVIRONMENT_API_KEY = "Your Enterspeed Environment API key"
